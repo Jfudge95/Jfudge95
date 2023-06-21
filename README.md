@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Full Stack Application
+- 🌱 Learning SQL!
+- 📫 How to reach me: jordanfudge95@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have a Dachshund :dog:
+- 👩🏻‍💻 Tech skills: HTML5, CSS, Javascript, Typescript, Node.js, React, Express, RESTful API, MySQL, PostgreSQL, MongoDB and Firebase
+
+
+
 <!--
 **Jfudge95/Jfudge95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

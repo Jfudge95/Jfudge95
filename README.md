@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Full Stack Application
-- 🌱 Learning SQL!
+- 🌱 Learning SQL and PostgreSQL!
 - 📫 How to reach me: jordanfudge95@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a Dachshund :dog:

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Full Stack Application
+- 🔭 I’m currently working on Full Stack Applications
 - 🌱 Learning React Native!
 - 📫 How to reach me: jordanfudge95@gmail.com
 - 😄 Pronouns: he/him

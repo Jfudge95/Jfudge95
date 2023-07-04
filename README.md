@@ -5,7 +5,7 @@
 - 📫 How to reach me: jordanfudge95@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a Dachshund :dog:
-- 👩🏻‍💻 Tech skills: HTML5, CSS, Javascript, Typescript, Node.js, React, Express, RESTful API, MySQL, PostgreSQL, MongoDB and Firebase
+- 👩🏻‍💻 Tech skills: HTML5, CSS, Javascript, React, React Native, Typescript, Node.js, Express, RESTful API, MySQL, PostgreSQL, MongoDB and Firebase
 
 
 

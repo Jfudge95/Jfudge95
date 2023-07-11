@@ -5,7 +5,7 @@
 💡  &nbsp; I like to explore new technologies and develop software solutions.\
 🔭 &nbsp;I’m currently working on Full Stack Applications.\
 🌱 &nbsp;Learning React Native!\
-✍️ &nbsp;In my free time, I spend time with my Wife and Dachshund :superhero_woman: 🐶\
+✍️ &nbsp;In my free time, I enjoy spending time with my Wife and Dachshund :superhero_woman: 🐶\
 📫 &nbsp;How to reach me: jordanfudge95@gmail.com.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/Jfudge95/Jfudge95/main/assets/Night-Coding.gif" align="right"/>

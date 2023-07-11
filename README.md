@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='50' align="left"/><h2>Hey there! I'm Jordan</h2>
+### Hi there 👋 I'm Jordan!
 
 ### 👨🏻‍💻 &nbsp;About Me
 

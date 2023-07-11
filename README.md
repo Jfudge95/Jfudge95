@@ -20,6 +20,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express.js)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=Redux)\
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=MongoDB)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=MySQL)&nbsp;
 ![PostgreSQL](  https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo)\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)

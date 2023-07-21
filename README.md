@@ -18,7 +18,8 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react)\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express.js)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=Redux)\
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=Redux)&nbsp;
+![Django](https://img.shields.io/badge/Django-593D88?style=flat&logo=Django)\
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=MongoDB)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=MySQL)&nbsp;
